@@ -57,7 +57,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 <div display="flex">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilmerJSB04&theme=catppuccin_mocha&hide_border=false)](https://github.com/WilmerJSB04)
