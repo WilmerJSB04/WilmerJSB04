@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Web Developer with 4 years of experience. Proficient in both Front-end and Back-end development, with skills in handling both relational and non-relational databases. Passionate about creating innovative and functional solutions that drive project success. Capable of working autonomously and in a team, always seeking to learn and grow in the field of web development.
+## 💫 About Me:
+💻 Experienced Web Developer with a solid 4-year track record in both Front-end and Back-end development. Proficient in managing relational and non-relational databases, ensuring robust and scalable web solutions. Passionate about crafting innovative and functional applications that contribute to project success. Highly adaptable and capable of working autonomously or as part of a collaborative team. Committed to continuous learning and growth in the dynamic field of web development.
 
 
 ## 🌐 Socials:
@@ -57,7 +57,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap;">
   <div>  
   
