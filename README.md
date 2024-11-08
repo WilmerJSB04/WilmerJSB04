@@ -54,7 +54,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center" display="flex">
+<div display="flex">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilmerJSB04&theme=catppuccin_mocha&hide_border=false)](https://github.com/WilmerJSB04)
 
