@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer with 4 years of experience
+💻 Web Developer with 4 years of experience. Proficient in both Front-end and Back-end development, with skills in handling both relational and non-relational databases. Passionate about creating innovative and functional solutions that drive project success. Capable of working autonomously and in a team, always seeking to learn and grow in the field of web development.
 
 
 ## 🌐 Socials:
