@@ -1,5 +1,5 @@
 ## 💫 About Me:
-💻 Experienced Web Developer with a solid 4-year track record in both Front-end and Back-end development. Proficient in managing relational and non-relational databases, ensuring robust and scalable web solutions. Passionate about crafting innovative and functional applications that contribute to project success. Highly adaptable and capable of working autonomously or as part of a collaborative team. Committed to continuous learning and growth in the dynamic field of web development.
+💻 Experienced Web Developer with a solid 5-year track record in both Front-end and Back-end development. Proficient in managing relational and non-relational databases, ensuring robust and scalable web solutions. Passionate about crafting innovative and functional applications that contribute to project success. Highly adaptable and capable of working autonomously or as part of a collaborative team. Committed to continuous learning and growth in the dynamic field of web development.
 
 
 ## 🌐 Socials:
